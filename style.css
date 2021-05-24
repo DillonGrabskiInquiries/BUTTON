@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+* {
+    margin: 0 auto;
+}
+
+.bigBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    top: 500px;
+}
+
+.imageBox {
+    position: absolute;
+    background-image: url(ooyeah.jpg);
+    height: 400px;
+    width: 400px;
+}
+
+.buttonBox {
+    position: absolute;
+}
+
+#machoMan {
+    color: white;
+    background-color: blueviolet;
+    font-size: 40px;
+}
