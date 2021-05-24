@@ -1,9 +1,5 @@
 body {
-    background-image: url(backgroundooyeah.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-attachment: fixed;
-    height: 800px;
+    background-color: black;
 }
 
 * {
@@ -28,6 +24,11 @@ body {
 
 .buttonBox {
     position: absolute;
+}
+
+.bottomimage {
+    background-image: url(backgroundooyeah.jpg);
+    height: 1100px;
 }
 
 #machoMan {
