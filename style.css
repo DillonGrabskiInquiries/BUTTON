@@ -15,12 +15,12 @@ body {
     left: 1400px;
 }
 
-.imageBox {
+/* .imageBox {
     position: absolute;
     background-image: url(ooyeah.jpg);
     height: 400px;
     width: 400px;
-}
+} */
 
 .buttonBox {
     position: absolute;
